@@ -25,10 +25,10 @@
   <img src="https://img.shields.io/badge/SQLite-111827?style=for-the-badge&logo=sqlite&logoColor=FFFFFF" alt="SQLite" />
   <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=FFFFFF" alt="Git" />
   <img src="https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=FFFFFF" alt="Figma" />
-  <img src="https://img.shields.io/badge/Affinity_Designer-111827?style=for-the-badge&logo=affinitydesigner&logoColor=FFFFFF" alt="Affinity Designer" />
-  <img src="https://img.shields.io/badge/Alight_Motion-111827?style=for-the-badge&logo=android&logoColor=FFFFFF" alt="Alight Motion" />
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-111827?style=for-the-badge&logo=adobephotoshop&logoColor=FFFFFF" alt="Adobe Photoshop" />
-  <img src="https://img.shields.io/badge/Adobe_After_Effects-111827?style=for-the-badge&logo=adobeaftereffects&logoColor=FFFFFF" alt="Adobe After Effects" />
+  <img src="./assets/affinity-canva-badge.svg" alt="Affinity" />
+  <img src="./assets/alight-motion-badge.svg" alt="Alight Motion" />
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-111827?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" alt="Adobe Photoshop" />
+  <img src="https://img.shields.io/badge/Adobe_After_Effects-111827?style=for-the-badge&logo=adobeaftereffects&logoColor=9999FF" alt="Adobe After Effects" />
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
 </p>
 
