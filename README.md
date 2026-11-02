@@ -18,13 +18,17 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=FFFFFF" alt="Java" />
-  <img src="https://img.shields.io/badge/Flutter-111827?style=for-the-badge&logo=flutter&logoColor=FFFFFF" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-111827?style=for-the-badge&logo=dart&logoColor=FFFFFF" alt="Dart" />
-  <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=FFFFFF" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQLite-111827?style=for-the-badge&logo=sqlite&logoColor=FFFFFF" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=FFFFFF" alt="Git" />
-  <img src="https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=FFFFFF" alt="Figma" />
+  <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java" />
+  <img src="https://img.shields.io/badge/Flutter-111827?style=for-the-badge&logo=flutter&logoColor=02569B" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-111827?style=for-the-badge&logo=dart&logoColor=0175C2" alt="Dart" />
+  <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQLite-111827?style=for-the-badge&logo=sqlite&logoColor=003B57" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
+  <img src="./assets/affinity-canva-badge.svg" alt="Affinity" />
+  <img src="./assets/alight-motion-badge.svg" alt="Alight Motion" />
+  <img src="./assets/photoshop-badge.svg" alt="Adobe Photoshop" />
+  <img src="./assets/aftereffects-badge.svg" alt="Adobe After Effects" />
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
 </p>
 

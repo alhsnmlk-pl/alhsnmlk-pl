@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="28" viewBox="0 0 180 28" role="img" aria-labelledby="title">
+  <title>After Effects badge</title>
+  <rect width="180" height="28" fill="#111827"/>
+  <g transform="translate(8 6)">
+    <rect width="16" height="16" rx="3" fill="#00005C"/>
+    <text x="8" y="12.5" fill="#9798FE" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle">Ae</text>
+  </g>
+  <text x="34" y="18" fill="#FFFFFF" font-family="Verdana, Geneva, DejaVu Sans, sans-serif" font-size="11" font-weight="700">Adobe After Effects</text>
+</svg>
