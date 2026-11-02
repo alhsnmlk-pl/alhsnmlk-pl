@@ -3,7 +3,7 @@
 <!-- <h1 align="center">Muhammad Husnil Malak</h1> -->
 <p align="center">
   <!-- <strong>alhsnmlk</strong><br /> -->
-  💻 Coding Enthusiast | 🎨 UI/UX Designer | 🌐 Front End Developer | 👨‍💻 Software Engineer | 🎬 Video Editor | 🖌️ Graphic Designer
+  💻 Coding Enthusiast | 🎨 UI/UX Designer | 👨‍💻 Software Engineer | 🎬 Video Editor | 🖌️ Graphic Designer
 </p>
 
 <p align="center">
