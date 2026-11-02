@@ -16,13 +16,13 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java" />
-  <img src="./assets/flutter-badge.svg" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Flutter-111827?style=for-the-badge&logo=flutter&logoColor=02569B" alt="Flutter" />
   <img src="https://img.shields.io/badge/Dart-111827?style=for-the-badge&logo=dart&logoColor=0175C2" alt="Dart" />
   <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
   <img src="https://img.shields.io/badge/SQLite-111827?style=for-the-badge&logo=sqlite&logoColor=003B57" alt="SQLite" />
   <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
   <img src="https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
-  <img src="./assets/affinity-badge.svg" alt="Affinity" />
+  <img src="https://img.shields.io/badge/Affinity_Designer-111827?style=for-the-badge&logo=affinitydesigner&logoColor=1B72BE" alt="Affinity Designer" />
   <img src="https://img.shields.io/badge/Canva-111827?style=for-the-badge&logo=canva&logoColor=00C4CC" alt="Canva" />
   <img src="https://img.shields.io/badge/Alight_Motion-111827?style=for-the-badge&logo=android&logoColor=3DDC84" alt="Alight Motion" />
   <img src="https://img.shields.io/badge/Adobe_Photoshop-111827?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" alt="Adobe Photoshop" />
@@ -33,8 +33,8 @@
 ### Martial Arts
 
 <p align="center">
-  <img src="./assets/pagar-nusa-logo.svg" alt="Pagar Nusa" height="80" />
-  <img src="./assets/gasmi-logo.svg" alt="GASMI" height="80" />
+  <img src="./assets/pagar-nusa-logo.svg" alt="Pagar Nusa" width="48%" style="max-width: 600px;" />
+  <img src="./assets/gasmi-logo.svg" alt="GASMI" width="48%" style="max-width: 600px;" />
 </p>
 
 ## Currently Building
@@ -43,16 +43,9 @@ Building desktop applications with focus on user experience, clean design, and p
 
 ## GitHub Statistics
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="./assets/github-streak.svg" alt="GitHub contribution streak" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://raw.githubusercontent.com/alhsnmlk-pl/alhsnmlk-pl/main/metrics.plugin.pagespeed.svg?v=4" alt="PageSpeed metrics for alasama25.github.io/linktree" width="100%" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/github-streak.svg" alt="GitHub contribution streak" width="100%" />
+</p>
 
 <p>
   <picture>
