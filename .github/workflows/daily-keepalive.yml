@@ -1,0 +1,15 @@
+name: Daily Keepalive
+
+on:
+  schedule:
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+
+jobs:
+  keepalive:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Keepalive Workflow
+        uses: gautamkrishnar/keepalive-workflow@v1
+        with:
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
