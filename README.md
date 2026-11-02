@@ -35,8 +35,8 @@
 ### Martial Arts
 
 <p align="center">
-  <img src="./assets/pagar-nusa-logo.svg" alt="Pagar Nusa" width="48%" style="max-width: 600px;" />
-  <img src="./assets/gasmi-logo.svg" alt="GASMI" width="48%" style="max-width: 600px;" />
+  <img src="./assets/pagar-nusa-logo.svg" alt="Pagar Nusa" height="150" />
+  <img src="./assets/gasmi-logo.svg" alt="GASMI" height="150" />
 </p>
 
 ## Currently Building
