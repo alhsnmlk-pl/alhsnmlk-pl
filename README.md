@@ -25,7 +25,6 @@
   <img src="https://img.shields.io/badge/SQLite-111827?style=for-the-badge&logo=sqlite&logoColor=003B57" alt="SQLite" />
   <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
   <img src="https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
-  <img src="./assets/affinity-canva-badge.svg" alt="Affinity" />
   <img src="./assets/alight-motion-badge.svg" alt="Alight Motion" />
   <img src="./assets/photoshop-badge.svg" alt="Adobe Photoshop" />
   <img src="./assets/aftereffects-badge.svg" alt="Adobe After Effects" />
