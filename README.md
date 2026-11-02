@@ -7,9 +7,12 @@
 </p>
 
 <p align="center">
-  <a href="https://alasama25.github.io/linktree/"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Linktree-1E88E5?style=flat-square" alt="Linktree" /></a>
-  <a href="https://www.tiktok.com/@alhsnmlk15_"><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&amp;logo=tiktok&amp;logoColor=white" alt="TikTok" /></a>
-  <a href="mailto:alasama351@gmail.com"><img src="https://img.shields.io/badge/Email-FFFFFF?style=flat-square&amp;logo=gmail&amp;logoColor=EA4335" alt="Email" /></a>
+  <a href="https://alasama25.github.io/linktree/"><img src="https://img.shields.io/badge/Linktree-43E55E?style=flat-square&logo=linktree&logoColor=white" alt="Linktree" /></a>
+  <a href="https://www.tiktok.com/@alhsnmlk15_"><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+  <a href="https://www.instagram.com/alhsnmlk15_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://id.pinterest.com/alasama351/"><img src="https://img.shields.io/badge/Pinterest-BD081C?style=flat-square&logo=pinterest&logoColor=white" alt="Pinterest" /></a>
+  <a href="https://discord.com/users/1000625025235296356"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="mailto:alasama351@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
 ## Tech Stack
@@ -23,7 +26,6 @@
   <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=FFFFFF" alt="Git" />
   <img src="https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=FFFFFF" alt="Figma" />
   <img src="https://img.shields.io/badge/Affinity_Designer-111827?style=for-the-badge&logo=affinitydesigner&logoColor=FFFFFF" alt="Affinity Designer" />
-  <img src="https://img.shields.io/badge/Canva-111827?style=for-the-badge&logo=canva&logoColor=FFFFFF" alt="Canva" />
   <img src="https://img.shields.io/badge/Alight_Motion-111827?style=for-the-badge&logo=android&logoColor=FFFFFF" alt="Alight Motion" />
   <img src="https://img.shields.io/badge/Adobe_Photoshop-111827?style=for-the-badge&logo=adobephotoshop&logoColor=FFFFFF" alt="Adobe Photoshop" />
   <img src="https://img.shields.io/badge/Adobe_After_Effects-111827?style=for-the-badge&logo=adobeaftereffects&logoColor=FFFFFF" alt="Adobe After Effects" />
