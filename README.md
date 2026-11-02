@@ -15,18 +15,18 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java" />
-  <img src="https://img.shields.io/badge/Flutter-111827?style=for-the-badge&logo=flutter&logoColor=02569B" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-111827?style=for-the-badge&logo=dart&logoColor=0175C2" alt="Dart" />
-  <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQLite-111827?style=for-the-badge&logo=sqlite&logoColor=003B57" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-  <img src="https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
-  <img src="https://img.shields.io/badge/Affinity_Designer-111827?style=for-the-badge&logo=affinitydesigner&logoColor=1B72BE" alt="Affinity Designer" />
-  <img src="https://img.shields.io/badge/Canva-111827?style=for-the-badge&logo=canva&logoColor=00C4CC" alt="Canva" />
-  <img src="https://img.shields.io/badge/Alight_Motion-111827?style=for-the-badge&logo=android&logoColor=3DDC84" alt="Alight Motion" />
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-111827?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" alt="Adobe Photoshop" />
-  <img src="https://img.shields.io/badge/Adobe_After_Effects-111827?style=for-the-badge&logo=adobeaftereffects&logoColor=9999FF" alt="Adobe After Effects" />
+  <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=FFFFFF" alt="Java" />
+  <img src="https://img.shields.io/badge/Flutter-111827?style=for-the-badge&logo=flutter&logoColor=FFFFFF" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-111827?style=for-the-badge&logo=dart&logoColor=FFFFFF" alt="Dart" />
+  <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=FFFFFF" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQLite-111827?style=for-the-badge&logo=sqlite&logoColor=FFFFFF" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=FFFFFF" alt="Git" />
+  <img src="https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=FFFFFF" alt="Figma" />
+  <img src="https://img.shields.io/badge/Affinity_Designer-111827?style=for-the-badge&logo=affinitydesigner&logoColor=FFFFFF" alt="Affinity Designer" />
+  <img src="https://img.shields.io/badge/Canva-111827?style=for-the-badge&logo=canva&logoColor=FFFFFF" alt="Canva" />
+  <img src="https://img.shields.io/badge/Alight_Motion-111827?style=for-the-badge&logo=android&logoColor=FFFFFF" alt="Alight Motion" />
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-111827?style=for-the-badge&logo=adobephotoshop&logoColor=FFFFFF" alt="Adobe Photoshop" />
+  <img src="https://img.shields.io/badge/Adobe_After_Effects-111827?style=for-the-badge&logo=adobeaftereffects&logoColor=FFFFFF" alt="Adobe After Effects" />
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
 </p>
 
